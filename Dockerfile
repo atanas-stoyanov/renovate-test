@@ -5,7 +5,7 @@ ENV CURL_VERSION="8.7.0-r0"
 # renovate: datasource=repology depName=alpine_3_20/python3-dev versioning=loose
 ENV PYTHON3_DEV_VERSION="3.11.3-r1"
 # renovate: datasource=repology depName=alpine_3_20/py3-pip versioning=loose
-ENV PY3_PIP_VERSION="23.0-r2"
+ENV PY3_PIP_VERSION="24.0-r2"
 
 # renovate: datasource=pypi depName=requests
 ENV PYTHON_REQUESTS_VERSION="2.22.0"

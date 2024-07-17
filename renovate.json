@@ -1,8 +1,8 @@
 {
   "labels": [
       "renovate",
-      "{{{datasource}}}",
-      "{{{updateType}}}"
+      "renovate::{{{datasource}}}",
+      "renovate::{{{updateType}}}"
   ],
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [

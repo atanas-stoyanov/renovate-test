@@ -8,7 +8,7 @@ ENV PYTHON3_DEV_VERSION="3.11.3-r1"
 ENV PY3_PIP_VERSION="23.0-r2"
 
 # renovate: datasource=pypi depName=requests
-ENV PYTHON_REQUESTS_VERSION="2.22.0"
+ENV PYTHON_REQUESTS_VERSION="2.32.3"
 
 # renovate: datasource=npm depName=express
 ENV NPM_EXPRESS_VERSION="3.0.0"

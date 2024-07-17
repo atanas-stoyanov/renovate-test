@@ -11,7 +11,7 @@ ENV PY3_PIP_VERSION="23.0-r2"
 ENV PYTHON_REQUESTS_VERSION="2.22.0"
 
 # renovate: datasource=npm depName=express
-ENV NPM_EXPRESS_VERSION="3.0.0"
+ENV NPM_EXPRESS_VERSION="4.19.2"
 
 # Install required packages
 RUN apk add --no-cache \
